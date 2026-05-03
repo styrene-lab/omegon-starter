@@ -15,7 +15,7 @@ You learn by doing real work on a real codebase: a small Rust CLI task tracker c
 ## Quick start
 
 ```bash
-git clone https://github.com/styrene-labs/omegon-starter.git
+git clone https://github.com/styrene-lab/omegon-starter.git
 cd omegon-starter
 omegon
 ```
